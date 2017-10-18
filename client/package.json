@@ -1,5 +1,5 @@
 {
-  "name": "react-anonymous-chat",
+  "name": "react-anonymous-chat-client",
   "version": "0.1.0",
   "private": true,
   "proxy": {

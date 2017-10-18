@@ -7,7 +7,8 @@
     "server": "cross-env NODE_ENV=development nodemon index.js",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "client": "npm run start -y --prefix client",
-    "prod": "NODE_ENV=production node index.js"
+    "start": "cross-env NODE_ENV=production node index.js",
+    "prod":"npm run build --prefix client && npm start"
   },
   "engines": {
     "node": "8.1.3"
