@@ -5,6 +5,7 @@
  * When Second User Connected Connect that new User to Non-Connected User
  * When Chat Log Mounted Get that Connected Id from The User and Emit the Message to other User
  */
+require('dotenv').config()
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const CONFIG = require('./config');
