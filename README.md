@@ -2,6 +2,8 @@
 
 Anonymous-Chat-App with node.js
 
+![Demo Image](https://github.com/githubitsme/Anonymous-Chat-App/blob/master/CHAT%20DEMO.gif)
+
 ## Prerequisites
 
 Set mongodb url inside config folder or set env variable ```process.env.MONGODB_URL="MONGO_URL"```
