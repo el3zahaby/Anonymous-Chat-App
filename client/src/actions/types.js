@@ -1,0 +1,4 @@
+/* Form Actions */
+export const GOT_ALL_USER_DETAILS = 'GOT_ALL_USER_DETAILS';
+export const UPDATE_SENDER_ID = 'UPDATE_SENDER_ID';
+export const PUSH_NEW_CHAT_PAYLOAD = 'PUSH_NEW_CHAT_PAYLOAD'
