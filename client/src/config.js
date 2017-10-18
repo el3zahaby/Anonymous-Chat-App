@@ -1,3 +1,3 @@
 export default {
-    SOCKET_URL:'http://localhost:5000'
+    SOCKET_URL:'https://anon-chat-in-node.herokuapp.com/'
 }
