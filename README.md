@@ -8,7 +8,7 @@ Anonymous-Chat-App with node.js
 
 Set mongodb url inside config folder or set env variable ```process.env.MONGODB_URL="MONGO_URL"```
 
-#####Why mongoDb ?
+##### Why mongoDb ?
 To persist user presence not chats logs.
 ## Installing
 
@@ -27,14 +27,14 @@ PROD build the client bundle and start the server
 npm run prod
 ```
 
-#Demo
+# Demo
 
 Demo will work two or more user connected at the same time
 
 [Anon Chat In Node](http://anon-chat-in-node.herokuapp.com/) - Anon Chat In Node
 
 
-#Todo
+# Todo
 
 - [ ] Add Redis alternative to MongoDb
 - [ ] Add Picture Sending Support
